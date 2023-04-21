@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\dorin\source\repos\Lab6-7Contract\Lab6-7Contract\RepoContract.h(28,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Lab6-7Contract.vcxproj -> C:\Users\dorin\source\repos\Lab6-7Contract\x64\Debug\Lab6-7Contract.exe
